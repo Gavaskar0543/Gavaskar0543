@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavaskar0543&label=Profile%20views&color=0e75b6&style=flat" alt="gavaskar0543" /> </p>
 
 
-- 🔭 I’m currently working on **Freelance Projects**
+- 🔭 I’m currently working at  **Livekeeping(an Indiamart company)**
 
 - 👯 I’m looking to collaborate on **MERN Project**
 
