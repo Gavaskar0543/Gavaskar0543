@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Project**
 
-- 💬 Ask me about **react and nodejs**
+- 💬 Ask me about **react,Vue,Java and nodejs**
 
 - 📫 How to reach me **gavaskaraeg@gmail.com**
 
